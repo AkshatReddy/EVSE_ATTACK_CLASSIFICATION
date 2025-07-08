@@ -1,6 +1,6 @@
 # EVSE Attack Classification using Machine Learning
 
-This project focuses on detecting and classifying cyberattacks on Electric Vehicle Supply Equipment (EVSE) using supervised machine learning techniques. The goal is to enhance the security of EV infrastructure by identifying malicious activity within charging networks through machine learning models trained on network traffic data.
+This project focuses on detecting and classifying cyberattacks on Electric Vehicle Supply Equipment (EVSE) using supervised machine learning and deep learning techniques. The goal is to enhance the security of EV infrastructure by identifying malicious activity within charging networks through machine learning and deep learning models trained on network traffic data.
 
 ## 📁 Project Structure
 
